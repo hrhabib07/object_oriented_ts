@@ -1,0 +1,7 @@
+# Ignore all compiled JS files
+*.js
+*.js.map
+
+# Ignore TypeScript declaration files (optional)
+*.d.ts
+*.d.ts.map
